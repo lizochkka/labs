@@ -1,1 +1,1 @@
-Елисеева Елизавета Вадимовна, 848, Основы программной инженерии
+Eliseeva Elizaveta Vadimovna, gr.848, Subject: Basics of software engineering
